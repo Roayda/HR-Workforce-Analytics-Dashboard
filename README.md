@@ -5,12 +5,16 @@ Why do employees really leave a company? Is it the department they work in, thei
 
 To answer these questions, I worked on this HR Workforce Analytics project. Instead of just creating charts, my main goal was to take raw, messy HR data, clean it up, and build a story that helps management understand their team better and make smart retention decisions.
 
+---
+
 ## 🎯 Key HR Metrics Highlighted
 * **Total Employees:** 22K 
 * **Terminated Employees:** 3K 
 * **Overall Turnover Rate:** 12.70% 
 * **Average Age:** 42 Years 
 * **Average Tenure:** 8 Years
+
+  ---
 
 ## 🖼️ Dashboard Previews
 
@@ -37,6 +41,8 @@ Understanding exactly who is leaving and from which location.
 Tracking the YoY hiring and termination percentages.
 ![Trends](Media/p10.png)
 
+---
+
 ## 🛠️ Data Preparation (Behind the Scenes)
 Before building any visuals in Power BI, I spent a lot of time in **Power Query** making sure the data was clean and ready. Here is what I did:
 * **Clean Names:** Merged the first and last name columns to create a clean `Full Name` column.
@@ -57,8 +63,6 @@ After modeling the data and writing the necessary DAX measures, I found some rea
 * **Gender Balance:** The workplace is very balanced. Males make up **50.81%** , and Females make up **46.46%**.
 * **Company Size & Age:** The company has a total of 22K employees  with an average age of 42. They clearly prefer hiring younger talent, as the 24-34 age group is the largest.
 * **Locations:** Ohio is the main hub, housing over 18,000 employees, leaving other states far behind.
-
----
 
 
 ---
