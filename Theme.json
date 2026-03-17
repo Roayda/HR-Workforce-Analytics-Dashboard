@@ -1,0 +1,99 @@
+{
+    "name": "Deep Purple & Teal HR Theme",
+    "dataColors": [
+        "#5B2E91",
+        "#00B3A4",
+        "#FF6B6B",
+        "#FF9F43",
+        "#2C3E75",
+        "#6C757D"
+    ],
+    "background": "#F7F9FC",
+    "foreground": "#1E1E2F",
+    "tableAccent": "#00B3A4",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [
+                    {
+                        "show": true,
+                        "fontSize": 18,
+                        "fontFamily": "Segoe UI",
+                        "color": {
+                            "solid": {
+                                "color": "#1E1E2F"
+                            }
+                        }
+                    }
+                ],
+                "labels": [
+                    {
+                        "fontSize": 11,
+                        "color": {
+                            "solid": {
+                                "color": "#1E1E2F"
+                            }
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "show": false,
+                        "color": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ],
+                "border": [
+                    {
+                        "show": false
+                    }
+                ]
+            }
+        },
+        "card": {
+            "*": {
+                "labels": [
+                    {
+                        "fontSize": 12,
+                        "color": {
+                            "solid": {
+                                "color": "#6C757D"
+                            }
+                        }
+                    }
+                ],
+                "categoryLabels": [
+                    {
+                        "fontSize": 28,
+                        "color": {
+                            "solid": {
+                                "color": "#1E1E2F"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "textClasses": {
+        "title": {
+            "fontSize": 32,
+            "fontFace": "Segoe UI",
+            "color": "#1E1E2F"
+        },
+        "header": {
+            "fontSize": 20,
+            "fontFace": "Segoe UI",
+            "color": "#1E1E2F"
+        },
+        "label": {
+            "fontSize": 12,
+            "fontFace": "Segoe UI",
+            "color": "#6C757D"
+        }
+    }
+}
