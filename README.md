@@ -14,7 +14,7 @@ To answer these questions, I worked on this HR Workforce Analytics project. Inst
 * **Average Age:** 42 Years 
 * **Average Tenure:** 8 Years
 
-  ---
+---
 
 ## 🖼️ Dashboard Previews
 
