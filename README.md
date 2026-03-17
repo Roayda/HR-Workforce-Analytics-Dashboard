@@ -5,6 +5,13 @@ Why do employees really leave a company? Is it the department they work in, thei
 
 To answer these questions, I worked on this HR Workforce Analytics project. Instead of just creating charts, my main goal was to take raw, messy HR data, clean it up, and build a story that helps management understand their team better and make smart retention decisions.
 
+## 🎯 Key HR Metrics Highlighted
+* **Total Employees:** 22K 
+* **Terminated Employees:** 3K 
+* **Overall Turnover Rate:** 12.70% 
+* **Average Age:** 42 Years 
+* **Average Tenure:** 8 Years
+
 ## 🖼️ Dashboard Previews
 
 ### 1. Main Welcome Screen
